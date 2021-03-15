@@ -408,7 +408,7 @@
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/noirr/application/views/admin/form/form_editmerch.php",
+			"file": "/C/xampp/htdocs/noirr/application/views/admin/index_merch.php",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -416,7 +416,7 @@
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/noirr/application/views/admin/data/data_merchsold.php",
+			"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/data_merchsold.php",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -424,7 +424,7 @@
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/noirr/application/views/admin/table/table_merch.php",
+			"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/form_addmerch.php",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -432,11 +432,43 @@
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/noirr/application/controllers/merch/Merch.php",
+			"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/form_editmerch.php",
 			"settings":
 			{
-				"buffer_size": 808,
+				"buffer_size": 0,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/table_merch.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/noirr/application/controllers/Main.php",
+			"settings":
+			{
+				"buffer_size": 2600,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/noirr/application/controllers/Merch.php",
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/noirr/application/controllers/Welcome.php",
+			"settings":
+			{
+				"buffer_size": 730,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -531,17 +563,18 @@
 		"/C/xampp/htdocs/noirr",
 		"/C/xampp/htdocs/noirr/application",
 		"/C/xampp/htdocs/noirr/application/controllers",
-		"/C/xampp/htdocs/noirr/application/controllers/merch",
 		"/C/xampp/htdocs/noirr/application/models",
 		"/C/xampp/htdocs/noirr/application/views",
 		"/C/xampp/htdocs/noirr/application/views/admin",
-		"/C/xampp/htdocs/noirr/application/views/admin/data",
-		"/C/xampp/htdocs/noirr/application/views/admin/form",
-		"/C/xampp/htdocs/noirr/application/views/admin/table",
+		"/C/xampp/htdocs/noirr/application/views/admin/_partials",
 		"/E/noirr/noirr data"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/noirr/application/views/admin/form/form_editmerch.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/data/data_merchsold.php",
+		"/C/xampp/htdocs/noirr/application/views/admin/table/table_merch.php",
+		"/C/xampp/htdocs/noirr/application/controllers/merch/Merch.php",
 		"/E/4sehat5sempurna/4sehat5sempurna data/4s5s_khenjy.code-workspace",
 		"/E/4sehat5sempurna/4sehat5sempurna data/4s5s_khenjy.sublime-workspace",
 		"/E/noirr/noirr data/noirr_khenjy.code-workspace",
@@ -571,7 +604,6 @@
 		"/C/xampp/htdocs/tokobuah/application/views/about.php",
 		"/C/xampp/htdocs/tokobuah/css/sb-admin.css",
 		"/C/xampp/htdocs/noirr/application/controllers/bill/Bill.php",
-		"/C/xampp/htdocs/noirr/application/controllers/merch/Merch.php",
 		"/C/xampp/htdocs/noirr/application/controllers/member/Member.php",
 		"/C/xampp/htdocs/noirr/application/views/member/form/form_checkout.php",
 		"/C/xampp/htdocs/noirr/application/views/member/table/table_favorites.php",
@@ -579,7 +611,6 @@
 		"/C/xampp/htdocs/noirr/application/assets/css/bootstrap.css",
 		"/C/xampp/htdocs/noirr/application/assets/css/noirr.css.map",
 		"/C/xampp/htdocs/noirr/application/views/admin/table/table_member.php",
-		"/C/xampp/htdocs/noirr/application/views/admin/table/table_merch.php",
 		"/C/xampp/htdocs/noirr/application/models/Bill_mdl.php",
 		"/C/xampp/htdocs/noirr/application/models/Merch_mdl.php",
 		"/C/xampp/htdocs/noirr/application/models/Member_mdl.php",
@@ -590,14 +621,12 @@
 		"/C/xampp/htdocs/noirr/application/views/public/form/form_login.php",
 		"/C/xampp/htdocs/noirr/application/views/public/form/form_signup.php",
 		"/C/xampp/htdocs/noirr/application/views/admin/form/form_editmember.php",
-		"/C/xampp/htdocs/noirr/application/views/admin/form/form_editmerch.php",
 		"/C/xampp/htdocs/noirr/application/controllers/admin/Productadm.php",
 		"/C/xampp/htdocs/noirr/application/controllers/admin/Memberadm.php",
 		"/C/xampp/htdocs/noirr/application/controllers/bill/Checkout.php",
 		"/C/xampp/htdocs/noirr/application/controllers/Main.php",
 		"/C/xampp/htdocs/noirr/application/views/template/headeradm.php",
 		"/C/xampp/htdocs/noirr/application/views/template/footeradm.php",
-		"/C/xampp/htdocs/noirr/application/views/admin/data/data_merchsold.php",
 		"/C/xampp/htdocs/noirr/application/views/admin/data/data_subscriber.php",
 		"/C/xampp/htdocs/noirr/application/views/table/tablemember.php",
 		"/C/xampp/htdocs/noirr/application/controllers/form/Output.php",
@@ -713,7 +742,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -723,6 +752,62 @@
 					"settings":
 					{
 						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/noirr/application/views/admin/index_merch.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/data_merchsold.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -745,8 +830,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/xampp/htdocs/noirr/application/views/admin/form/form_editmerch.php",
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/form_addmerch.php",
 					"semi_transient": false,
 					"settings":
 					{
@@ -773,8 +858,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/xampp/htdocs/noirr/application/views/admin/data/data_merchsold.php",
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/form_editmerch.php",
 					"semi_transient": false,
 					"settings":
 					{
@@ -801,8 +886,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/xampp/htdocs/noirr/application/views/admin/table/table_merch.php",
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/noirr/application/views/admin/_partials/table_merch.php",
 					"semi_transient": false,
 					"settings":
 					{
@@ -831,16 +916,16 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
-					"buffer": 4,
-					"file": "/C/xampp/htdocs/noirr/application/controllers/merch/Merch.php",
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/noirr/application/controllers/Main.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 808,
+						"buffer_size": 2600,
 						"regions":
 						{
 						},
@@ -860,7 +945,65 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/noirr/application/controllers/Merch.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/noirr/application/controllers/Welcome.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -870,7 +1013,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 5,
+					"buffer": 9,
 					"file": "/C/xampp/htdocs/noirr/application/models/Merch_mdl.php",
 					"semi_transient": false,
 					"settings":
@@ -895,7 +1038,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
